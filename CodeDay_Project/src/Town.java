@@ -130,6 +130,7 @@ public class Town{
 					buyWhiskey();
 				}
 			}
+			keyEvent.VK
 			case (KeyEvent.VK_E): {
 				if(loc.equals("saloon")) {
 					enter();

@@ -131,7 +131,7 @@ public class Display extends JPanel{
 		drawImage("Rock.png", 651,655,21,21);
 		
 		/// drawing images
-		drawImage("Map_Background.png", 10,185,700,525);
+		//drawImage("Map_Background.png", 10,185,700,525);
 		
 		// Hat
 		drawImage("Hat1.png", 885,310,30,17);
